@@ -15,7 +15,32 @@
 
 > Implementación: ` Implementación llamado a la función `
 
-Por defecto, los valores no asignados serán tomados como nulos. El componenete deberá recibir los siguientes parametros, con el mismo nombre establecido, veamos:
+Por defecto, los valores no asignados serán tomados como nulos. El componenete deberá recibir los siguientes parametros, con el mismo nombre establecido. Dichos parámetros se podrán enviar en formato JSON o como un Object, veamos:
+
+> Envio por JSON: ` Envio de parametros por JSON `
+
+```md
+ var code = {
+        Divid: 'NewDivId',
+        Divclass: 'Content_NewDiv',
+        HostDiv: '.panelLeft',
+        DivWidth: '50%',
+        DivHeight: '100%',
+        lottieId: 'NewLottie-Player',
+        lottieClass: 'lottie-player',
+        lottieSrc: 'GeneralesJS/librototal.json',
+        lottieSpeed: '1',
+        lottieLoop: false,
+        lottieControls: false,
+        lottieAutoPlay: true
+    }
+
+    LottieComponent(JSON.stringify(code));
+```
+
+<hr>
+
+> Envio por Object: ` Envio de parametros por JSON `
 
 ```md
  LottieComponent({
@@ -34,8 +59,20 @@ Por defecto, los valores no asignados serán tomados como nulos. El componenete 
     });
 ```
 
+<hr>
+
 > Atributos:  ` Atributos para su asginación, por defecto quedaran nulos, en dado caso de no enviarse el parametro solicitado.  `
  
+Divid: Este parametro indica el ID de la etiqueta html del contenedor
+ 
 ```md
- Divid: 
+ Divid: ''
+```
+
+<hr>
+
+Divid: Este parametro indica el ID de la etiqueta html del contenedor
+ 
+```md
+ Divid: ''
 ```
