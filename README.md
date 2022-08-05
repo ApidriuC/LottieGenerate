@@ -119,7 +119,7 @@ lottieClass: Este parámetro indica la clase de la etiqueta html del Lottie-Play
 
 <hr>
 
-lottieSrc: Este parámetro indica la ubicación del JSON de la animación Lottie a reproducir
+lottieSrc: Este parámetro indica la ubicación del JSON de la animación Lottie-Player a reproducir
  
 ```md
  lottieSrc: ''
@@ -127,10 +127,34 @@ lottieSrc: Este parámetro indica la ubicación del JSON de la animación Lottie
 
 <hr>
 
-lottieSpeed: Este parámetro indica la velocidad de la animación Lottie a reproducir
+lottieSpeed: Este parámetro indica la velocidad de la animación Lottie-Player a reproducir
  
 ```md
  lottieSpeed: ''
+```
+
+<hr>
+
+lottieLoop: Este parámetro indica si se reproducirá en bucle la animación Lottie-Player 
+ 
+```md
+ lottieLoop: ''
+```
+
+<hr>
+
+lottieControls: Este parámetro indica mostrará los controles por defecto del Lottie-Player
+ 
+```md
+ lottieControls: ''
+```
+
+<hr>
+
+lottieAutoPlay: Este parámetro indica si se reproducirá automaticamente la animación Lottie-Player
+ 
+```md
+ lottieAutoPlay: ''
 ```
 
 
