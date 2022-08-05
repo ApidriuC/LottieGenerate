@@ -13,7 +13,7 @@
  
  # Documentación
 
-> Implementación: `Atributos para su asginación, por defecto quedaran nulos, en dado caso de no enviarse el parametro solicitado.`
+> Implementación: ` Atributos para su asginación, por defecto quedaran nulos, en dado caso de no enviarse el parametro solicitado. `
 
 ```md
  LottieComponent({
