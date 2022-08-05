@@ -63,7 +63,7 @@ Por defecto, los valores no asignados serán tomados como nulos. El componenete 
 
 > Atributos:  ` Atributos para su asginación, por defecto quedaran nulos, en dado caso de no enviarse el parametro solicitado.  `
  
-Divid: Este parametro indica el ID de la etiqueta html del contenedor
+Divid: Este parámetro indica el ID de la etiqueta html del contenedor
  
 ```md
  Divid: ''
@@ -71,8 +71,67 @@ Divid: Este parametro indica el ID de la etiqueta html del contenedor
 
 <hr>
 
-Divid: Este parametro indica el ID de la etiqueta html del contenedor
+Divclass: Este parámetro indica la clase de la etiqueta html del contenedor
  
 ```md
- Divid: ''
+ Divclass: ''
 ```
+
+<hr>
+
+HostDiv: Este parámetro indica donde se alojará el contenedor en el html. Si el parametro es un ID de otra etiqueta se deberá especificar con (#), si es una clase (.).
+ 
+```md
+ HostDiv: ''
+```
+
+<hr>
+
+DivWidth: Este parámetro indica el ancho del contenedor
+ 
+```md
+ DivWidth: ''
+```
+
+<hr>
+
+DivHeight: Este parámetro indica el alto del contenedor
+ 
+```md
+ DivHeight: ''
+```
+
+<hr>
+
+lottieId: Este parámetro indica el ID de la etiqueta html del Lottie-Player
+ 
+```md
+ lottieId: ''
+```
+
+<hr>
+
+lottieClass: Este parámetro indica la clase de la etiqueta html del Lottie-Player
+ 
+```md
+ lottieClass: ''
+```
+
+<hr>
+
+lottieSrc: Este parámetro indica la ubicación del JSON de la animación Lottie a reproducir
+ 
+```md
+ lottieSrc: ''
+```
+
+<hr>
+
+lottieSpeed: Este parámetro indica la velocidad de la animación Lottie a reproducir
+ 
+```md
+ lottieSpeed: ''
+```
+
+
+
