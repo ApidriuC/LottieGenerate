@@ -1,8 +1,8 @@
 
-<h1 align="center"><a align="left" href="#" target="_blank">
+<h1><a align="left" href="#" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-GPL-yellow.svg" />
  </a>
-Componente Lottie</h1>
+    <spam align="center">Componente Lottie</spam> </h1>
 
 
   
