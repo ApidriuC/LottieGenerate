@@ -15,7 +15,7 @@
 
 > Implementación: ` Implementación llamado a la función `
 
-Por defecto, los valores no asignados serán tomados como nulos, 
+Por defecto, los valores no asignados serán tomados como nulos. El componenete deberá recibir los siguientes parametros, con el mismo nombre establecido, veamos:
 
 ```md
  LottieComponent({
