@@ -12,4 +12,23 @@
  <img align="center" alt="Imagen Ejemplo" src="https://github.com/ApidriuC/LottieGenerate/blob/main/Prueba.PNG" />
  
  # Documentación
+
+> Implementación: `Atributos para su asginación, por defecto quedaran nulos, en dado caso de no enviarse el parametro solicitado.`
+
+```md
+ LottieComponent({
+        Divid: 'NewDivId',
+        Divclass: 'Content_NewDiv',
+        HostDiv: '.panelLeft',
+        DivWidth: '50%',
+        DivHeight: '100%',
+        lottieId: 'NewLottie-Player',
+        lottieClass: 'lottie-player',
+        lottieSrc: 'GeneralesJS/librototal.json',
+        lottieSpeed: '1',
+        lottieLoop: false,
+        lottieControls: false,
+        lottieAutoPlay: true
+    });
+```
  
