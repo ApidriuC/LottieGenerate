@@ -17,18 +17,18 @@
 
 ```md
  LottieComponent({
-        Divid: 'NewDivId',
-        Divclass: 'Content_NewDiv',
-        HostDiv: '.panelLeft',
-        DivWidth: '50%',
-        DivHeight: '100%',
-        lottieId: 'NewLottie-Player',
-        lottieClass: 'lottie-player',
-        lottieSrc: 'GeneralesJS/librototal.json',
-        lottieSpeed: '1',
-        lottieLoop: false,
-        lottieControls: false,
-        lottieAutoPlay: true
+        Divid: '',
+        Divclass: '',
+        HostDiv: '',
+        DivWidth: '',
+        DivHeight: '',
+        lottieId: '',
+        lottieClass: '',
+        lottieSrc: '',
+        lottieSpeed: '',
+        lottieLoop: ,
+        lottieControls: ,
+        lottieAutoPlay: 
     });
 ```
  
