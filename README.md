@@ -63,7 +63,7 @@ Por defecto, los valores no asignados serán tomados como nulos. El componenete 
 
 ## Atributos
 
-Atributos para su asginación, por defecto quedaran nulos, en dado caso de no enviarse el parametro solicitado.
+Atributos para su asginación, por defecto quedarán nulos, en dado caso de no enviarse el parametro solicitado.
  
 Divid: Este parámetro indica el ID de la etiqueta html del contenedor
  
