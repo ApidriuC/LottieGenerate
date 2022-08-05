@@ -65,6 +65,8 @@ Por defecto, los valores no asignados serán tomados como nulos. El componenete 
  
 Divid: Este parámetro indica el ID de la etiqueta html del contenedor
  
+ > Data Type: ` Recibe valores string `
+ 
 ```md
  Divid: ''
 ```
@@ -72,6 +74,8 @@ Divid: Este parámetro indica el ID de la etiqueta html del contenedor
 <hr>
 
 Divclass: Este parámetro indica la clase de la etiqueta html del contenedor
+ 
+ > Data Type: ` Recibe valores string `
  
 ```md
  Divclass: ''
@@ -81,6 +85,8 @@ Divclass: Este parámetro indica la clase de la etiqueta html del contenedor
 
 HostDiv: Este parámetro indica donde se alojará el contenedor en el html. Si el parametro es un ID de otra etiqueta se deberá especificar con (#), si es una clase (.).
  
+ > Data Type: ` Recibe valores string `
+ 
 ```md
  HostDiv: ''
 ```
@@ -88,6 +94,8 @@ HostDiv: Este parámetro indica donde se alojará el contenedor en el html. Si e
 <hr>
 
 DivWidth: Este parámetro indica el ancho del contenedor
+ 
+> Data Type: ` Recibe valores string ` 
  
 ```md
  DivWidth: ''
@@ -97,6 +105,8 @@ DivWidth: Este parámetro indica el ancho del contenedor
 
 DivHeight: Este parámetro indica el alto del contenedor
  
+> Data Type: ` Recibe valores string `
+ 
 ```md
  DivHeight: ''
 ```
@@ -104,6 +114,8 @@ DivHeight: Este parámetro indica el alto del contenedor
 <hr>
 
 lottieId: Este parámetro indica el ID de la etiqueta html del Lottie-Player
+ 
+ > Data Type: ` Recibe valores string `
  
 ```md
  lottieId: ''
@@ -113,6 +125,8 @@ lottieId: Este parámetro indica el ID de la etiqueta html del Lottie-Player
 
 lottieClass: Este parámetro indica la clase de la etiqueta html del Lottie-Player
  
+ > Data Type: ` Recibe valores string `
+ 
 ```md
  lottieClass: ''
 ```
@@ -121,6 +135,8 @@ lottieClass: Este parámetro indica la clase de la etiqueta html del Lottie-Play
 
 lottieSrc: Este parámetro indica la ubicación del JSON de la animación Lottie-Player a reproducir
  
+ > Data Type: ` Recibe valores string `
+ 
 ```md
  lottieSrc: ''
 ```
@@ -128,33 +144,42 @@ lottieSrc: Este parámetro indica la ubicación del JSON de la animación Lottie
 <hr>
 
 lottieSpeed: Este parámetro indica la velocidad de la animación Lottie-Player a reproducir
- 
+
+> Data Type: ` Recibe valores string `
+
 ```md
  lottieSpeed: ''
 ```
 
 <hr>
 
+
 lottieLoop: Este parámetro indica si se reproducirá en bucle la animación Lottie-Player 
+
+> Data Type: ` Recibe valores booleanos `
  
 ```md
- lottieLoop: ''
+ lottieLoop: 
 ```
 
 <hr>
 
-lottieControls: Este parámetro indica mostrará los controles por defecto del Lottie-Player
+lottieControls: Este parámetro indica mostrará los controles por defecto del Lottie-Player. 
+ 
+ > Data Type: ` Recibe valores booleanos `
  
 ```md
- lottieControls: ''
+ lottieControls: 
 ```
 
 <hr>
 
 lottieAutoPlay: Este parámetro indica si se reproducirá automaticamente la animación Lottie-Player
  
+ > Data Type: ` Recibe valores booleanos `
+ 
 ```md
- lottieAutoPlay: ''
+ lottieAutoPlay: 
 ```
 
 
