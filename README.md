@@ -184,5 +184,10 @@ lottieAutoPlay: Este parámetro indica si se reproducirá automaticamente la ani
  lottieAutoPlay: 
 ```
 
+<hr>
+
+## Licenciamiento
+
+La licencia de Lottie es necesaria incluirla en el proyecto, de lo contrario no se mostrará nada.
 
 
