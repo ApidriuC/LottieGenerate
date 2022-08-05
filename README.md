@@ -17,7 +17,7 @@
 
 ```md
  LottieComponent({
-        Divid: '',
+        Divid: '', //as
         Divclass: '',
         HostDiv: '',
         DivWidth: '',
