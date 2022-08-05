@@ -13,7 +13,9 @@
  
  # Documentación
 
-> Implementación: ` Atributos para su asginación, por defecto quedaran nulos, en dado caso de no enviarse el parametro solicitado. `
+> Implementación: ` Implementación llamado a la función `
+
+Por defecto, los valores no asignados serán tomados como nulos, 
 
 ```md
  LottieComponent({
@@ -31,4 +33,9 @@
         lottieAutoPlay: true
     });
 ```
+
+> Atributos:  ` Atributos para su asginación, por defecto quedaran nulos, en dado caso de no enviarse el parametro solicitado.  `
  
+```md
+ Divid: 
+```
