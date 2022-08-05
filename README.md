@@ -1,6 +1,6 @@
 
 </p> <h1 align="center">Componente Lottie  <p>
-  <a href="#" target="_blank">
+  <a align="left" href="#" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-GPL-yellow.svg" />
   </a></h1>
 
