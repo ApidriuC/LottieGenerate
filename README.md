@@ -40,7 +40,7 @@ Por defecto, los valores no asignados serán tomados como nulos. El componenete 
 
 <hr>
 
-> Envio por Object: ` Envio de parametros por JSON `
+> Envio por Object: ` Envio de parametros por Object `
 
 ```md
  LottieComponent({
