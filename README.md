@@ -186,8 +186,8 @@ lottieAutoPlay: Este parámetro indica si se reproducirá automaticamente la ani
 
 <hr>
 
-## Licenciamiento
+# Licenciamiento
 
-La licencia de Lottie es necesaria incluirla en el proyecto, de lo contrario no se mostrará nada.
+La licencia de Lottie es necesaria incluirla en el proyecto, de lo contrario no se mostrará nada. Para obtener los JSON respectivos a sus animaciones se deberán extraer de Lottie o bien, subir nuestras animaciones a la plataforma y posteriormente generar su JSON.
 
 
