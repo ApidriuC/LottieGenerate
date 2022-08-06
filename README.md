@@ -95,26 +95,6 @@ HostDiv: Este parámetro indica donde se alojará el contenedor en el html. Si e
 
 <hr>
 
-DivWidth: Este parámetro indica el ancho del contenedor
- 
-> Data Type: ` Recibe valores string ` 
- 
-```md
- DivWidth: ''
-```
-
-<hr>
-
-DivHeight: Este parámetro indica el alto del contenedor
- 
-> Data Type: ` Recibe valores string `
- 
-```md
- DivHeight: ''
-```
-
-<hr>
-
 lottieId: Este parámetro indica el ID de la etiqueta html del Lottie-Player
  
  > Data Type: ` Recibe valores string `
@@ -172,16 +152,6 @@ lottieControls: Este parámetro indica mostrará los controles por defecto del L
  
 ```md
  lottieControls: 
-```
-
-<hr>
-
-lottieAutoPlay: Este parámetro indica si se reproducirá automaticamente la animación Lottie-Player
- 
- > Data Type: ` Recibe valores booleanos `
- 
-```md
- lottieAutoPlay: 
 ```
 
 <hr>
