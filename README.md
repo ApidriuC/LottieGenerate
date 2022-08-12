@@ -11,7 +11,7 @@
 <hr>
  <img align="center" alt="Imagen Ejemplo" src="https://github.com/ApidriuC/LottieGenerate/blob/main/Prueba.PNG" />
  
- # Ejemplo de visualización
+ # Ejemplo de visualización 🛠
  
   - <a href="https://github.com/ApidriuC/LottieExample" alt="">Repositorio del ejemplo</a>
  
