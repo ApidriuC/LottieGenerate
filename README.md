@@ -11,6 +11,13 @@
 <hr>
  <img align="center" alt="Imagen Ejemplo" src="https://github.com/ApidriuC/LottieGenerate/blob/main/Prueba.PNG" />
  
+ # Ejemplo de visualización
+ 
+  - <a href="https://github.com/ApidriuC/LottieExample" alt="">Repositorio del ejemplo</a>
+ 
+ - <a href="https://apidriuc.github.io/LottieExample/" alt="">Sitio web de ejemplo</a>
+ 
+ 
  # Documentación 🤔
 
 > Implementación: ` Implementación llamado a la función `
