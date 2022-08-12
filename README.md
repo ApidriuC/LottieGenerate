@@ -36,7 +36,7 @@ Por defecto, los valores no asignados serán definidos por la clase del componen
 ```
 <hr>
 
-Estos son los valores por defecto del componente Lottie, si no se asigna el parametro tomará los siguientes valores. Los parametros requeridos serán el "SRC" y el "HostDiv" ya que se necesita una animación para representarla y el lugar donde se va a alojar.
+Estos son los valores por defecto del componente Lottie, si no se asigna el parametro tomará los siguientes valores. 
 
 > Valores Default: ` Valores Obligatorias "SRC" y "HOSTDIV" `
 
@@ -51,6 +51,8 @@ Estos son los valores por defecto del componente Lottie, si no se asigna el para
     this.lottieLoop = _json.lottieLoop?.valueOf() || false;
     this.lottieControls = _json.lottieControls?.valueOf() || false; 
 ```
+
+Los parametros requeridos serán el "SRC" y el "HostDiv" ya que se necesita una animación para representarla y el lugar donde se va a alojar.
 
 <hr>
 
