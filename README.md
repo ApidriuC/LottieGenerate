@@ -52,7 +52,7 @@ Estos son los valores por defecto del componente Lottie, si no se asigna el para
     this.lottieControls = _json.lottieControls?.valueOf() || false; 
 ```
 
-Los parametros requeridos serán el "SRC" y el "HostDiv" ya que se necesita una animación para representarla y el lugar donde se va a alojar.
+Los parametros requeridos serán el "SRC" y el "HostDiv", ya que se necesita una animación para representarla y el lugar donde se va a alojar.
 
 <hr>
 
