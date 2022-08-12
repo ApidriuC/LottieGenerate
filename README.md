@@ -1,5 +1,5 @@
 
-<h1 align="center">Componente Lottie</h1>
+<h1 align="center">Componente Lottie 🚀</h1>
 
 
 
