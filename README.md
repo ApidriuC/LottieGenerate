@@ -38,7 +38,7 @@ Por defecto, los valores no asignados serán definidos por la clase del componen
 
 Estos son los valores por defecto del componente Lottie, si no se asigna el parametro tomará los siguientes valores. 
 
-> Valores Default: ` Valores Obligatorias "SRC" y "HOSTDIV" `
+> Valores Default
 
 ```md
     this.Divid = _json.Divid?.toString() || 'newDivId';
