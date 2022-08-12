@@ -15,7 +15,7 @@
 
 > Implementación: ` Implementación llamado a la función `
 
-Por defecto, los valores no asignados serán definidos por la clase del Componente. El componenete deberá recibir los siguientes parametros, con el mismo nombre establecido. Dichos parámetros se podrán enviar en formato JSON o como un Objecto, veamos:
+Por defecto, los valores no asignados serán definidos por la clase del componente. El componente deberá recibir los siguientes parametros, con el mismo nombre establecido. Dichos parámetros se podrán enviar en formato JSON o como un Objecto, veamos:
 
 > Envio por JSON: ` Parametros enviados por formato JSON `
 
