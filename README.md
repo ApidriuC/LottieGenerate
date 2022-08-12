@@ -3,7 +3,7 @@
 
 
 
-<p align="justify">Se realiza la creación de un componente realizado en JavaScript que generé un contenedor en tiempo dinámico con propiedades genericas donde dentro de este, se generará un "Lottie - Player" que realizará una animación recibia por parametros en formato tipo JSON.</p>
+<p align="justify">Se realiza la creación de un componente realizado en JavaScript que genera un contenedor en tiempo dinámico con propiedades genericas donde dentro de este, se generará un "Lottie - Player" que realizará una animación recibia por parametros en formato tipo JSON.</p>
 
 <a align="left" href="#" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-GPL-yellow.svg" />
