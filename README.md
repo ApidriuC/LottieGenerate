@@ -155,5 +155,5 @@ lottieControls: Este parámetro indica mostrará los controles por defecto del L
 
 La licencia de Lottie es necesaria incluirla en el proyecto, de lo contrario no se mostrará nada. Para obtener los JSON respectivos a sus animaciones se deberán extraer de Lottie o bien, subir nuestras animaciones a la plataforma y posteriormente generar su JSON.
 
-<a alt="" src="https://lottiefiles.com/">Enlace a LottieFiles</a>
+<a alt="" href="https://lottiefiles.com/">Enlace a LottieFiles</a>
 
