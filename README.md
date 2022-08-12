@@ -56,9 +56,9 @@ Los parametros requeridos serán el "SRC" y el "HostDiv", ya que se necesita una
 
 <hr>
 
-## Atributos
+## Atributos 🔍
 
-Atributos para su asginación, por defecto quedarán nulos, en dado caso de no enviarse el parametro solicitado.
+Atributos para su asignación, por defecto quedarán los asignados al componente, en dado caso de no enviarse el parametro solicitado.
  
 Divid: Este parámetro indica el ID de la etiqueta html del contenedor
  
