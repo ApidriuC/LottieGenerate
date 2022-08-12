@@ -15,48 +15,38 @@
 
 > Implementación: ` Implementación llamado a la función `
 
-Por defecto, los valores no asignados serán tomados como nulos. El componenete deberá recibir los siguientes parametros, con el mismo nombre establecido. Dichos parámetros se podrán enviar en formato JSON o como un Objecto, veamos:
+Por defecto, los valores no asignados serán definidos por la clase del Componente. El componenete deberá recibir los siguientes parametros, con el mismo nombre establecido. Dichos parámetros se podrán enviar en formato JSON o como un Objecto, veamos:
 
 > Envio por JSON: ` Envio de parametros por JSON `
 
 ```md
- var code = {
+    var Componente = new LottieClass({
         Divid: 'NewDivId',
         Divclass: 'Content_NewDiv',
         HostDiv: '.panelLeft',
-        DivWidth: '50%',
-        DivHeight: '100%',
         lottieId: 'NewLottie-Player',
         lottieClass: 'lottie-player',
         lottieSrc: 'GeneralesJS/librototal.json',
         lottieSpeed: '1',
         lottieLoop: false,
         lottieControls: false,
-        lottieAutoPlay: true
-    }
+    });
 
-    LottieComponent(JSON.stringify(code));
+    Componente.generarLottie();
 ```
 
-<hr>
-
-> Envio por Object: ` Envio de parametros por Object `
+> Valores Default: ` Estos son los valores por defecto del componente Lottie, si no se asigna el parametro tomará los siguientes valores. Los parametros requeridos serán el "SRC" y el "HostDiv" ya que se necesita una animación para representarla y el lugar donde se va a alojar. `
 
 ```md
- LottieComponent({
-        Divid: 'NewDivId',
-        Divclass: 'Content_NewDiv',
-        HostDiv: '.panelLeft',
-        DivWidth: '100%',
-        DivHeight: '100%',
-        lottieId: 'NewLottie-Player',
-        lottieClass: 'lottie-player',
-        lottieSrc: 'GeneralesJS/librototal.json',
-        lottieSpeed: '1',
-        lottieLoop: false,
-        lottieControls: false,
-        lottieAutoPlay: true
-    });
+    this.Divid = _json.Divid?.toString() || 'newDivId';
+    this.Divclass = _json.Divclass?.toString() || 'content-NewDiv';
+    this.HostDiv = _json.HostDiv;
+    this.lottieId = _json.lottieId?.toString() || 'lottie-player';
+    this.lottieClass = _json.lottieClass?.toString() || 'newLottie-Player';
+    this.lottieSrc = _json.lottieSrc;
+    this.lottieSpeed = _json.lottieSpeed?.toString() || '1';
+    this.lottieLoop = _json.lottieLoop?.valueOf() || false;
+    this.lottieControls = _json.lottieControls?.valueOf() || false; 
 ```
 
 <hr>
