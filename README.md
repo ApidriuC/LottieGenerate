@@ -34,8 +34,11 @@ Por defecto, los valores no asignados serán definidos por la clase del Componen
 
     Componente.generarLottie();
 ```
+<hr>
 
-> Valores Default: ` Estos son los valores por defecto del componente Lottie, si no se asigna el parametro tomará los siguientes valores. Los parametros requeridos serán el "SRC" y el "HostDiv" ya que se necesita una animación para representarla y el lugar donde se va a alojar. `
+Estos son los valores por defecto del componente Lottie, si no se asigna el parametro tomará los siguientes valores. Los parametros requeridos serán el "SRC" y el "HostDiv" ya que se necesita una animación para representarla y el lugar donde se va a alojar.
+
+> Valores Default: ` Valores Obligatorias "SRC" y "HOSTDIV" `
 
 ```md
     this.Divid = _json.Divid?.toString() || 'newDivId';
