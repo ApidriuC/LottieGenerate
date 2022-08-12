@@ -17,7 +17,7 @@
 
 Por defecto, los valores no asignados serán definidos por la clase del Componente. El componenete deberá recibir los siguientes parametros, con el mismo nombre establecido. Dichos parámetros se podrán enviar en formato JSON o como un Objecto, veamos:
 
-> Envio por JSON: ` Envio de parametros por JSON `
+> Envio por JSON: ` Parametros enviados por formato JSON `
 
 ```md
     var Componente = new LottieClass({
